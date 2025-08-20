@@ -1,0 +1,5 @@
+{
+  "name": "Parent Flow",
+  "description": "A daily habit tracker and co-parenting tool designed to help new parents establish routines, track progress, and support each other through the challenges of early parenthood. Features draggable habit blocks, progress summaries, and reflection prompts.",
+  "requestFramePermissions": []
+}

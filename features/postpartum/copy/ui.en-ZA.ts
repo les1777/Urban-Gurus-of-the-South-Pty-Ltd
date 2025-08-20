@@ -1,0 +1,16 @@
+export const uiCopy = {
+  HUB_TITLE: 'Postpartum copilot',
+  HUB_DESCRIPTION: 'Tools to support you and your partner during this new chapter.',
+  SCREENER_CARD_TITLE: 'Emotional wellness check-in',
+  SCREENER_CARD_DESCRIPTION: 'Take a few moments to reflect on how you\'ve been feeling.',
+  SCREENER_CARD_CTA: 'Start Check-in',
+  SLEEP_CARD_TITLE: 'Protect your sleep',
+  SLEEP_CARD_DESCRIPTION: 'Create a co-parenting sleep schedule for the week.',
+  SLEEP_CARD_CTA: 'Plan Sleep',
+  PARTNER_CARD_TITLE: 'Partner actions',
+  PARTNER_CARD_DESCRIPTION: 'Concrete ways your partner can support you, no asking required.',
+  PARTNER_CARD_CTA: 'View Actions',
+  CRISIS_CARD_TITLE: 'Crisis support',
+  CRISIS_CARD_DESCRIPTION: 'Immediate help and local contact numbers.',
+  CRISIS_CARD_CTA: 'Find Help Now',
+};
